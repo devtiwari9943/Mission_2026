@@ -1,4 +1,6 @@
 # how to assign and use variables in Python
+
+
 # 1 - Variable assignment
 x = 10  # assigning an integer value
 y = 5.5  # assigning a float value
